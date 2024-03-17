@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook Login</string>
+    <string name="facebook_app_id">648111047440823</string>
+    <string name="fb_login_protocol_scheme">fb648111047440823</string>
+    <string name="facebook_client_token">29967bfa5110075c8ed64a96d4e73e56</string>
+    <string name="profile_picture">Profile Picture</string>
+</resources>
